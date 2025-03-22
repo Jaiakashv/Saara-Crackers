@@ -308,6 +308,10 @@ li img {
 .why-choose {
   display: flex;
   flex-direction: column;
+  background: url(/images/boy.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .frst-row {
